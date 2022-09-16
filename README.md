@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer
 
-![preview](../nlw-Esports/github/laionkings.github.io_Projeto-NLW-Esports_.png)
+![preview](./github/laionkings.github.io_Projeto-NLW-Esports_.png)
 
 > Trilha Explorer
 
